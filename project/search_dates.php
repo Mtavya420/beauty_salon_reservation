@@ -66,7 +66,7 @@ body{
         <table width="430" height="480">
           <tr> 
             <td><b>날짜</b></td>
-            <td><input type="date" id ='datetime' name="date"></td>
+            <td><input type="date" id ="date" name="date"></td>
           </tr>
           <!-- <tr> 
             <td><b>시간</b></td>

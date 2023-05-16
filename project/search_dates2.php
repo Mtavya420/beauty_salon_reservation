@@ -48,7 +48,7 @@ body{
 </style>
 
 <?php
-    $datetime = $_POST["datetime"];
+    $datetime = $_POST["date"];
 
     //check not empty
     if(empty($datetime)){
